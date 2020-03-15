@@ -6,7 +6,11 @@ public class NewClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is for testing and git testing ");
-
+		System.out.println("This is for testing and git testing ");
+		System.out.println("This is for testing and git testing ");
+		System.out.println("This is for testing and git testing ");
+		System.out.println("This is for testing and git testing ");
+		System.out.println("This is for testing and git testing ");
 	}
 
 }
