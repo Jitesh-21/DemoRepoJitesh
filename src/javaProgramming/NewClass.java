@@ -9,8 +9,7 @@ public class NewClass {
 		System.out.println("This is for testing and git testing ");
 		System.out.println("This is for testing and git testing ");
 		System.out.println("This is for testing and git testing ");
-		System.out.println("This is for testing and git testing ");
-		System.out.println("This is for testing and git testing ");
+		
 	}
 
 }
